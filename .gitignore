@@ -1,0 +1,12 @@
+# Documentation build artifacts
+*.pdf
+*.psd
+*.ai
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
